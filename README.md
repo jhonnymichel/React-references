@@ -16,11 +16,11 @@ I'll not cover basics here. This is not the place to learn how to install, Hello
 - [Thinking in React](https://reactjs.org/docs/thinking-in-react.html)
 - [React Stateless Functional Components: Nine Wins You Might Have Overlooked
 ](https://hackernoon.com/react-stateless-functional-components-nine-wins-you-might-have-overlooked-997b0d933dbc#.1yfv4ie69)
+- [Refs and the DOM](https://reactjs.org/docs/refs-and-the-dom.html)
 - [Making Sense of React Hooks](https://dev.to/dan_abramov/making-sense-of-react-hooks-2eib)
 
 ## <a name="design-patterns">Design Patterns</a>
-- [Refs and the DOM](https://reactjs.org/docs/refs-and-the-dom.html)
-- [How to decouple state and UI (a.k.a you don't need componentWillMount](https://hackernoon.com/how-to-decouple-state-and-ui-a-k-a-you-dont-need-componentwillmount-cc90b787aa37)
+- [How to decouple state and UI (a.k.a you don't need componentWillMount)](https://hackernoon.com/how-to-decouple-state-and-ui-a-k-a-you-dont-need-componentwillmount-cc90b787aa37)
 - [Render Props](https://reactjs.org/docs/render-props.html)
 - [You Probably **Don't** Need Derived State](https://reactjs.org/blog/2018/06/07/you-probably-dont-need-derived-state.html)
 
