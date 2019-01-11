@@ -32,4 +32,4 @@ I'll not cover basics here. This is not the place to learn how to install, Hello
 
 ## <a name="performance">Performance</a>
 - [How to use React Memo and What memoization actually means](https://medium.com/@trekinbami/using-react-memo-and-memoization-1970eb1ed128)
-- [React, Inline Funcitons, and Performance](https://cdb.reacttraining.com/react-inline-functions-and-performance-bdff784f5578)
+- [React, Inline Functons, and Performance](https://cdb.reacttraining.com/react-inline-functions-and-performance-bdff784f5578)
