@@ -8,6 +8,8 @@ I'll not cover basics here. This is not the place to learn how to install, Hello
 - [State Management](#state-management)
 - [Performance](#performance)
 - [Libraries](#libraries) (*soon*)
+- [Redux](#redux)(*soon*)
+- [Mobx](#mobx)(*soon*)
 
 ## <a name="related-concepts">Related Programming/Javascript concepts</a>
 - [An Introduction to Functional JavaScript](https://www.sitepoint.com/introduction-functional-javascript/)
@@ -29,6 +31,7 @@ I'll not cover basics here. This is not the place to learn how to install, Hello
 - [3 Reasons why I stopped using React.setState
 ](https://blog.cloudboost.io/3-reasons-why-i-stopped-using-react-setstate-ab73fc67a42e#.6zj6hro87)
 - [React's new Context API](https://medium.com/dailyjs/reacts-%EF%B8%8F-new-context-api-70c9fe01596b)
+- [Global state management with React Hooks](https://blog.usejournal.com/global-state-management-with-react-hooks-5e453468c5bf)
 
 ## <a name="performance">Performance</a>
 - [How to use React Memo and What memoization actually means](https://medium.com/@trekinbami/using-react-memo-and-memoization-1970eb1ed128)
